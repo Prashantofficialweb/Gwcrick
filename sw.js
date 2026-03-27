@@ -72,7 +72,7 @@ self.addEventListener('fetch', event => {
           // Professional Offline Response
           return new Response(
             `<html><body style="font-family:sans-serif;text-align:center;padding:50px;">
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeUqJ98ZmYOGoBx3QQ0cCMShQqv1HTjy93CjT0KKMj1UED1i6NK1hAwRVnWVmQwN2pyri_sG2Z490I8CzRy_4Ov2M16iVUdBO0lqROXhA0DDkIlI1lDnWdTzasUcgC1v0DpUimyE4NH2FAHq4q9ZOWbaPCR26FNUM_ZuFbq6X2WTX8CdYTWb1EFMJdD4Uu/s192/9550.png" width="100">
+            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSxhkSgKh4s8fMj9c-vpaAQzHmKwcd6rlGdDb0ODcnCIY-IvTG3jtwI1FzSeZe4hJQHpVQQWhMoWkUm34EKG-n-bhH_DAyHS0WPTWaSrgQhA-RT2cis_51ZEjkFwR8QZYJwJo-aFCxXGgIW4_r_yUmPoZfDey_yxA2bKeB0JfQQ9FZaF_2dZjVl_eNOfM/s956/8621.png" width="100">
             <h2>You are currently offline</h2>
             <p>Please check your internet connection and try again.</p>
             <button onclick="window.location.reload()" style="background:#21a03e;color:white;padding:10px 20px;border:none;border-radius:5px;">Retry</button>
