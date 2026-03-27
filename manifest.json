@@ -1,0 +1,26 @@
+{
+  "name": "Gw Crick - Live Match Streaming",
+  "short_name": "GwCrick Live ",
+  "description": "Free Live Cricket Streaming App",
+  "start_url": "https://gwcrick.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#87f59b",
+  "theme_color": "#87f59b",
+  "orientation": "any",
+  "gcm_sender_id": "482941778795",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeUqJ98ZmYOGoBx3QQ0cCMShQqv1HTjy93CjT0KKMj1UED1i6NK1hAwRVnWVmQwN2pyri_sG2Z490I8CzRy_4Ov2M16iVUdBO0lqROXhA0DDkIlI1lDnWdTzasUcgC1v0DpUimyE4NH2FAHq4q9ZOWbaPCR26FNUM_ZuFbq6X2WTX8CdYTWb1EFMJdD4Uu/s1024/9550.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeUqJ98ZmYOGoBx3QQ0cCMShQqv1HTjy93CjT0KKMj1UED1i6NK1hAwRVnWVmQwN2pyri_sG2Z490I8CzRy_4Ov2M16iVUdBO0lqROXhA0DDkIlI1lDnWdTzasUcgC1v0DpUimyE4NH2FAHq4q9ZOWbaPCR26FNUM_ZuFbq6X2WTX8CdYTWb1EFMJdD4Uu/s1024/9550.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
